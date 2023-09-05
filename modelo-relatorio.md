@@ -32,21 +32,21 @@ A implementação de ferramentas na empresa Abstergo Industries tem como objetiv
 
 ## Anexos
 
-https://aws.amazon.com/pt/ec2/
-https://aws.amazon.com/pt/ec2/pricing/
-https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/auto-scaling-groups.html
-https://docs.aws.amazon.com/pt_br/autoscaling/application/userguide/what-is-application-auto-scaling.html
-https://blog.awsfundamentals.com/unlocking-the-benefits-of-aws-rds-scaling
-https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/Aurora.Integrating.AutoScaling.html#Aurora.Integrating.AutoScaling.Add
-https://aws.amazon.com/pt/rds/
-https://aws.amazon.com/pt/rds/pricing/
-https://aws.amazon.com/pt/rds/aurora/
-https://aws.amazon.com/pt/rds/aurora/pricing/
-https://aws.amazon.com/pt/rds/aurora/features/#High_Performance_and_Scalability
-https://aws.amazon.com/pt/ebs/
-https://aws.amazon.com/pt/ebs/pricing/
-https://aws.amazon.com/pt/s3/
-https://aws.amazon.com/pt/s3/pricing/?nc=sn&loc=4
+https://aws.amazon.com/pt/ec2/  
+https://aws.amazon.com/pt/ec2/pricing/  
+https://docs.aws.amazon.com/pt_br/autoscaling/ec2/userguide/auto-scaling-groups.html  
+https://docs.aws.amazon.com/pt_br/autoscaling/application/userguide/what-is-application-auto-scaling.html  
+https://blog.awsfundamentals.com/unlocking-the-benefits-of-aws-rds-scaling  
+https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/Aurora.Integrating.AutoScaling.html#Aurora.Integrating.AutoScaling.Add  
+https://aws.amazon.com/pt/rds/  
+https://aws.amazon.com/pt/rds/pricing/  
+https://aws.amazon.com/pt/rds/aurora/  
+https://aws.amazon.com/pt/rds/aurora/pricing/  
+https://aws.amazon.com/pt/rds/aurora/features/#High_Performance_and_Scalability  
+https://aws.amazon.com/pt/ebs/  
+https://aws.amazon.com/pt/ebs/pricing/  
+https://aws.amazon.com/pt/s3/  
+https://aws.amazon.com/pt/s3/pricing/?nc=sn&loc=4  
 
 
 Assinatura do Responsável pelo Projeto:
